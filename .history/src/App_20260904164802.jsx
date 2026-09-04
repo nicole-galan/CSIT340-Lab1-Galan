@@ -12,7 +12,7 @@ function App() {
       <main className="max-w-2xl mx-auto px-6 py-10">
         <section className="mb-10">
           <h2 className="text-xl font-semibold mb-3">About</h2>
-          <p className="leading-relaxed text-gray-700">
+          <p className="leading-relaxed text-slate-700">
             I was born and raised in Cebu and I, unfortunately, still live in the same city. 
             I picked IT because a close cousin of mine have been in the field for a decade
             and I wanted the same free lifestyle. I'm realizing now that "free" is a bit of a lie, 
@@ -24,39 +24,37 @@ function App() {
 
         <section className="mb-10">
           <h2 className="text-xl font-semibold mb-3">Details</h2>
-          <p className="leading-relaxed text-gray-700">
+          <p className="leading-relaxed text-slate-700">
             Course: BS Information Technology
             <br />
             Year level: Third year
             <br />
-            Hometown: Cebu City, Cebu
+            Hometown: Talisay City, Cebu
           </p>
         </section>
 
         <section className="mb-10">
           <h2 className="text-xl font-semibold mb-3">Things I like</h2>
-          <ul className="list-disc list-inside space-y-1 text-gray-700">
-            <li>sarcasm</li>
-            <li>reading highkey cliche novels/AUs</li>
-            <li>MATCHA</li>
-            <li>The Sims4 (heavily modded)</li>
-            <li>forming new habits (eg: inhaling more non-flavored air)</li>
-            <li>matcha.</li>
-            <li>filipino humor</li>
+          <ul className="list-disc list-inside space-y-1 text-slate-700">
+            <li>Playing badminton on weekends, badly</li>
+            <li>Fixing other people's laptops for free</li>
+            <li>Any milk tea that is not too sweet</li>
           </ul>
         </section>
 
         <section>
           <h2 className="text-xl font-semibold mb-3">Reach me</h2>
-          <p className="leading-relaxed text-gray-700">
-            nicoleangela.galan@cit.edu
+          <p className="leading-relaxed text-slate-700">
+            juan.delacruz@cit.edu
+            <br />
+            @juandelacruz on most things
           </p>
         </section>
       </main>
 
       <section className="max-w-2xl mx-auto px-6 pb-16">
-        <hr className="mb-6 border-gray-200" />
-        <p className="text-sm text-gray-500">Made for CSIT340.</p>
+        <hr className="mb-6 border-slate-200" />
+        <p className="text-sm text-slate-500">Made for CSIT340.</p>
       </section>
     </>
   )

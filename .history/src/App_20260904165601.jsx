@@ -36,13 +36,12 @@ function App() {
         <section className="mb-10">
           <h2 className="text-xl font-semibold mb-3">Things I like</h2>
           <ul className="list-disc list-inside space-y-1 text-gray-700">
-            <li>sarcasm</li>
-            <li>reading highkey cliche novels/AUs</li>
+            <li>Sarcasm</li>
+            <li>Reading highkey cliche novels/AUs</li>
             <li>MATCHA</li>
             <li>The Sims4 (heavily modded)</li>
-            <li>forming new habits (eg: inhaling more non-flavored air)</li>
+            <li>Forming new habits (eg: inhaling more non-flavored air)</li>
             <li>matcha.</li>
-            <li>filipino humor</li>
           </ul>
         </section>
 
